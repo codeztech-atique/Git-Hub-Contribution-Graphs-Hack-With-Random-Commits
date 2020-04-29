@@ -1,0 +1,25 @@
+{
+  "name": "random-date-commits-in-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeztech-atique/Random-Date-Commits-In-Git.git"
+  },
+  "author": "atique ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeztech-atique/Random-Date-Commits-In-Git/issues"
+  },
+  "homepage": "https://github.com/codeztech-atique/Random-Date-Commits-In-Git#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.24.0",
+    "random": "^2.2.0",
+    "simple-git": "^2.1.0"
+  }
+}
